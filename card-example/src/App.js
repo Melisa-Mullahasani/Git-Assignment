@@ -8,7 +8,7 @@ function App() {
   //   method: 'GET',
   //   url: 'https://hapi-books.p.rapidapi.com/nominees/romance/2020',
   //   headers: {
-  //     'X-RapidAPI-Key': '83cdc31fc2msh32e9e56a7821c81p194df2jsn377ff1876f8f',
+  //     'X-RapidAPI-Key': '',
   //     'X-RapidAPI-Host': 'hapi-books.p.rapidapi.com'
   //   }
   // };
